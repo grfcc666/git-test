@@ -19,5 +19,6 @@ public class GitTest {
         System.out.println("gitEe test");
         System.out.println("gitEe test2");
         System.out.println("git test1");
+        System.out.println("git push test again");
     }
 }
